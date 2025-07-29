@@ -1,7 +1,6 @@
-mode: "detailed"
+# yaml-language-server: $schema=https://raw.githubusercontent.com/raideno/awesome-website/refs/heads/main/awesome.list.schema.json
 title: "Easy Awesome Website"
 description: "A curated list of easy awesome website."
-version: "1.0.0"
 tags:
   - "awesome list"
   - "awesome website"
@@ -10,30 +9,16 @@ tags:
   - "react"
   - "radix"
 author: "Kichou Nadir"
-website: "https://github.com/raideno/easy-awesome-website"
-date: "2025-07-27"
-last_updated: "2025-07-27"
-repository: "https://github.com/raideno/easy-awesome-website"
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png"
 links:
-  - label: "Docs"
-    url: "https://github.com/raideno/awesome-website"
-
-categories:
-  - name: "Awesome Website"
-    slug: "awesome-websites"
-    icon: "⚛️"
-
+  - "https://github.com/raideno/awesome-website"
+  
 elements:
   - name: "Awesome Website"
     description: "A tool to generate an awesome website for your awesome lists."
-    content: "A tool to generate an awesome website for your awesome lists."
-    urls:
-      - url: "https://github.com/raideno/awesome-website"
-        label: "Awesome Website"
-      - url: "https://github.com/raideno/easy-awesome-website"
-        label: "Easy Awesome Website"
-    category: "awesome-websites"
+    links:
+      - "https://github.com/raideno/awesome-website"
+      - "https://github.com/raideno/easy-awesome-website"
     tags:
       - "awesome list"
       - "awesome website"
